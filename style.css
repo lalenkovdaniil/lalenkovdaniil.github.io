@@ -14,3 +14,19 @@ div{
     height: 50px;
     background: red;
 }
+.items{
+    
+    height: 300px;
+    width: 100%;
+    background: #3c3c3c;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.item{
+    height: 100px;
+    width: 100px;
+    background: yellow;
+    margin: 10px;
+    
+}
